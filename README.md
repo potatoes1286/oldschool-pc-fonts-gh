@@ -3,4 +3,6 @@ An effective complete copy of https://int10h.org/oldschool-pc-fonts/ GO CHECK TH
 
 That's it.
 
-Dont download/check out the fonts from here, use the website listed.
+Don't download/check out the fonts from here, use the website listed.
+
+All rights are reserved by the owner of int10h.org under CC-BY-SA 4.0.
