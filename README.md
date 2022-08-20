@@ -23,3 +23,5 @@ Example:
 Please browse the fonts using the site above, not this github repository.
 
 The original fonts, and by redistribution this repository, are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+The font pack was made by VileR on [int10h.org](https://int10h.org/oldschool-pc-fonts/)
